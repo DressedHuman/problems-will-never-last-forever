@@ -1,0 +1,9 @@
+img {
+    background-color: gray;
+    border: 2px solid goldenrod;
+    border-radius: 10px;
+    padding: 2px;
+    box-shadow: 5px 7px 12px;
+    outline: 2px solid gray;
+    margin: 0 20px 30px 0;
+}
